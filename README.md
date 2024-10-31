@@ -1,9 +1,11 @@
-<img align="center" alt="Header"  src="Img/banner.gif">
-<h1 align="center">Hi 👋, I'm Saksham</h1>
-<h3 align="center">I am Still Trying to figure it Out</h3>
+<p align="center">
+    <img src="Img/banner.gif" alt="MasterHead"  width="70%">
+</p>
+<h1 align="center">Hi 👋, I'm Saksham Chauhan</h1>
+<h3 align="center">I am Still Trying to figure coding...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamchauhan07&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamchauhan07" /> </p>
-<img align="right" alt="Coding" width="400" src="Img/coding-typing.gif">
+<img align="right" alt="Coding" width="300" src="Img/coding-typing.gif">
 
 - 🌱 I’m currently learning **Java**
 
