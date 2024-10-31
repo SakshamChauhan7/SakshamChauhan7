@@ -3,7 +3,7 @@
 <h3 align="center">I am Still Trying to figure it Out</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamchauhan07&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamchauhan07" /> </p>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-typing-big-brained-busy-sweating-gif-17808553">
+<img align="right" alt="Coding" width="400" src="coding-typing.gif">
 
 - 🌱 I’m currently learning **Java**
 
