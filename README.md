@@ -1,4 +1,4 @@
-![MasterHead](Img/banner.gif)
+<img align="center" alt="Header"  src="Img/banner.gif">
 <h1 align="center">Hi 👋, I'm Saksham</h1>
 <h3 align="center">I am Still Trying to figure it Out</h3>
 
